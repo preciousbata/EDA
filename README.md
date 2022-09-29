@@ -6,7 +6,7 @@
   This is an exploratory analysis on a health insurance
   * Project Dataset: Kaggle
   
-  * data Scientist EDA
+* Data Scientist Salary EDA
  
   This is an exploratory analysis on a data scientist salary
   * Project Dataset: Kaggle
